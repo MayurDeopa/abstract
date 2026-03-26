@@ -2,6 +2,8 @@
 - All things come to an end
 - Oroboros
 - All seeing eyes
+-  Evangelion
+-  When day breaks
 
 # Pillars
 - I decide 
@@ -28,3 +30,5 @@
 "and with that knowledge
 you made the choice you made.
 I could not make it for you."
+
+https://scp-wiki.wikidot.com/djkaktus-s-proposal-iii/offset/1
