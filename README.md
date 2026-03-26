@@ -16,6 +16,15 @@
 - true love ?
 
 # Fight for a future
+
 - impact takes time , starting doest
 - insurgent
 - loyalty
+
+
+
+
+"I gave you knowledge," it said
+"and with that knowledge
+you made the choice you made.
+I could not make it for you."
