@@ -1,4 +1,4 @@
-# abstract concepts
+# abstract 
 - All things come to an end
 - Oroboros
 - All seeing eyes
@@ -13,6 +13,9 @@
 # Grouping
 - Human
 - Is the goal to be natural or be human
+- true love ?
 
 # Fight for a future
 - impact takes time , starting doest
+- insurgent
+- loyalty
