@@ -13,3 +13,6 @@
 # Grouping
 - Human
 - Is the goal to be natural or be human
+
+# Fight for a future
+- impact takes time , starting doest
