@@ -10,6 +10,8 @@
 - Should be a general thing , nothing is personalized
 - No cookies,no tracking fuck corporations
 - For everyone
+- Spectator aware art
+- archive of something
 
 
 # Grouping
@@ -22,6 +24,7 @@
 - impact takes time , starting doest
 - insurgent
 - loyalty
+
 
 
 
